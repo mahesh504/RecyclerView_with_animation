@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recycleview_sample</string>
+    <string name="description_zoom_touch_close">close</string>
+    <string name="description_image_1">sample</string>
+</resources>
